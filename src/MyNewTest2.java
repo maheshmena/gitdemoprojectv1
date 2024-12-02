@@ -1,5 +1,5 @@
 
-public class MyNewTest {
+public class MyNewTest2 {
 
 	public static void main(String[] args) {
 		
@@ -7,7 +7,6 @@ public class MyNewTest {
 		if (hungry == "Yes")
 		{
 			System.out.println("Eat Something");
-			System.out.println("Eat Extra Fruits as well");
 		}
 		else
 		{
